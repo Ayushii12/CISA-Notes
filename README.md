@@ -66,4 +66,43 @@
 - The IS auditor should have sufficient understanding of **overall architecture** and **technical specifications** of the various applications to plan a risk-based audit
 - In understanding the **issues** and **current risks** facing the business, the IS auditor should focus on areas that are most **meaningful** to **management**
 - The following are some of the widely used applications in business processes. The CISA candidate should be aware of the risks associated with each of them
-  - Go over pages 35-42 in the book 
+  - Go over pages 35-42 in the book
+ 
+
+
+
+## Internal control
+- An internal control is a **process** used to **safeguard** the **assets** of an **organization**
+  - Assets can include systems, data, people, hardware, or the reputation of the organization
+- Internal controls help in achieving the objectives of the organization by **mitigating** various risks
+- Internal controls are implemented through **policies, procedures, practices, and organizational structures**
+- Internal controls provide **assurance** to **management** about the achievement of business objectives
+- Through internal controls, risk events are **prevented**, **detected** and **corrected**
+- Effective controls in an organization can be categorized into
+  - **Preventive**: Prevent occurance of threat and **avoids** the impact of the threat
+  - **Detective**: Detect the threat and reduces the potential impact of the threat
+  - **Deterrent**: Issue a **warning** signal to **deter** a threat event
+  - **Corrective**: **Minimizes** the impact of a threat event once it has occurred
+    - Helps in restoring a business to **normal** operations
+  - **Compensating**: Alternate measures employed to ensure that **weaknesses** in a system are not **exploited**
+    - In many cases, a strong control in one area can compensate for a weakness in another area
+- **Preventive Vs Deterrent Controls**:
+  - When a preventive control is implemented, an intruder is **prevented** from performing an act
+    - They **do not have a choice** in whether or not to perform the act
+  - When a deterrent control is implemented, the intruder is given a **warning**
+    - The intruder **has a choice**: either to act as per the warning or ignore the warning
+  - Example: A locked door to a room is a preventive control. Intruders cannot go through the door. On the other hand, just a warning sign that says “No Entry” is a deterrent control. Intruders can ignore the warning and enter the room
+- **Control Objective**:
+  - The **reason** why a control is implemented
+  - Control objectives are linked to **business** objectives
+  - Focus on:
+    - The **effectiveness** and **efficiency** of operational processes
+    - Adherence to **regulatory requirements**
+    - The **protection** of **assets**
+
+
+
+
+## 
+ 
+
