@@ -80,10 +80,32 @@
 - Through internal controls, risk events are **prevented**, **detected** and **corrected**
 - Effective controls in an organization can be categorized into
   - **Preventive**: Prevent occurance of threat and **avoids** the impact of the threat
+    - Examples of preventive controls include the following:
+      - The use of qualified personnel
+      - The segregation of duties
+      - The use of SOPs to prevent errors
+      - Transaction authorization procedures
+      - Edit checks
+      - Access control procedures
+      - Firewalls
+      - Physical barriers 
   - **Detective**: Detect the threat and reduces the potential impact of the threat
+    - Examples of detective controls include the following:
+      - Internal audits and other reviews
+      - Log monitoring
+      - Checkpoints in production jobs
+      - Echo controls in telecommunications
+      - Error messages over tape labels
+      - Variance analysis
+      - Quality assurance 
   - **Deterrent**: Issue a **warning** signal to **deter** a threat event
   - **Corrective**: **Minimizes** the impact of a threat event once it has occurred
     - Helps in restoring a business to **normal** operations
+      - Examples of corrective controls include the following:
+        - Business continuity planning
+        - Disaster recovery planning
+        - Incident response planning
+        - Backup procedures
   - **Compensating**: Alternate measures employed to ensure that **weaknesses** in a system are not **exploited**
     - In many cases, a strong control in one area can compensate for a weakness in another area
 - **Preventive Vs Deterrent Controls**:
