@@ -125,6 +125,72 @@
 
 
 
-## 
- 
-
+## Risk-Based Audit Planning
+- What is **Risk?**:
+  - **Potential events** that may **impact** the entity
+  - **Possibility of events** that could have **adverse effects** on an organization's financial, operational, or strategic goals
+- **Vulnerabilities Vs Threats**
+    |                 | **Vulnerability**                                              | **Threat**                                                    |
+    |-----------------|----------------------------------------------------------------|---------------------------------------------------------------|
+    | **Definition**  | A vulnerability is a **weakness** in a system                  | A threat is an element that **exploits a weakness**           |
+    | **Control**     | A vulnerability **can be controlled** by the organization      | A threat is **not** in the control of the organization        |
+    | **Source**      | Vulnerabilities are mostly **internal** elements               | Threats are mostly **external** elements                      |
+    | **Examples**    | Weak coding, missing anti-virus, weak access control           | Hackers, malware, criminals, natural disasters                |
+- 2 important formulas for Risk
+  - **Risk** = Probability * Impact
+  - **Risk** = A * V * T
+    - A: value of assets
+    - V: vulnerability of assets
+    - T: threats to assets
+- **Inherent Risk Vs Residual risk**
+    |                | **Inherent Risk**                                                                  | **Residual Risk**                                             |
+    |----------------|------------------------------------------------------------------------------------|---------------------------------------------------------------|
+    | **Definition** | The risk that an **activity** poses, excluding any controls or mitigating factors  | The risk that **remains** after taking controls into account  |
+    |                | Gross risk – the risk before controls are applied                                  | Net risk – the risk after controls are applied                |
+- Some more Definitions:
+  - **Inherent** risk: Risk that exists **before** applying a control
+  - **Control** risk: Risk that **internal controls** fail to prevent or detect
+  - **Detection** risk: Risk that **internal audits** fail to prevent or detect
+- What is **Audit-Risk?**:
+  - When an auditor is **not** able to detect material errors during the audit process
+  - Structured Approach To Minimize Audit-Risk
+    - **1.** Acquire **Pre-Audit** Requirements
+      - Understand the relevant **industry** and **regulatory requirements**
+      - Gain insights into the **specific risks** associated with the business
+      - Review outcomes from **previous audits** 
+    - **2.** Assess **Internal Controls**
+      - Gather information about the **internal control environment procedures**
+      - Evaluate **control risk** (risk that controls may not prevent/detect errors)
+      - Understand **detection risk** (risk that audit procedures may fail to detect issues)
+    - **3.** Perform Compliance Testing
+      - Identify **key controls** to be tested
+      - Evaluate whether the controls are **functioning effectively**
+    - **4.** Conduct Substantive Testing
+      - Ensure testing includes:
+        - Analytical procedures
+        - Detailed testing of account balances
+        - Other relevant verification methods
+- **Advantages** of Risk based Audit Planning:
+  - **Reduces** the risk that arises during an audit
+  - Helps to identify issues at an **early** stage
+  - Helps an organization identify any major **deviation from contractual and legal requirements**
+  - Promotes **preventive controls** over reactive measures
+- **Risk Assessment**
+  - Risk assessments should be conducted at **regular intervals** to account for **changes** in risk factors
+    - The risk assessment process has an **iterative** life cycle
+  - Also, it is important to determine the **risk appetite** of the organization as it helps to **prioritize** various risks for mitigation
+  - Steps
+    - Step 1: Identification of critical assets and processes
+    - Step 2: Identification of relevant risk, that is, vulnerabilities and threats
+    - Step 3: Conducting an impact analysis (either qualitative or quantitative)
+    - Step 4: Prioritizing the risk
+    - Step 5: Risk treatment
+- **Risk Response**
+  - Risk **appetite** of the organization in question determine the **risk response** method
+  - 4 main risk response methodologies:
+    - Risk **mitigation/reduction**: Take some action to mitigate/reduce the risk
+    - Risk **avoidance**: Change the strategy or business process to avoid the risk
+    - Risk **acceptance**: Decide to accept the risk
+    - Risk **transfer**: Transfer the risk to a third party: insurance is the best example
+  - It is not always feasible to mitigate all the risks at an organizational level
+    - A risk-free enterprise is an illusion
