@@ -148,9 +148,9 @@
     | **Definition** | The risk that an **activity** poses, excluding any controls or mitigating factors  | The risk that **remains** after taking controls into account  |
     |                | Gross risk – the risk before controls are applied                                  | Net risk – the risk after controls are applied                |
 - Some more Definitions:
-  - **Inherent** risk: Risk that exists **before** applying a control
-  - **Control** risk: Risk that **internal controls** fail to prevent or detect
-  - **Detection** risk: Risk that **internal audits** fail to prevent or detect
+  - **Inherent risk**: Risk that exists **before** applying a control
+  - **Control risk**: Risk that **internal controls** fail to prevent or detect
+  - **Detection risk**: Risk that **internal audits** fail to prevent or detect
 - What is **Audit-Risk?**:
   - When an auditor is **not** able to detect material errors during the audit process
   - Structured Approach To Minimize Audit-Risk
