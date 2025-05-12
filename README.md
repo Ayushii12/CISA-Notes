@@ -1,4 +1,4 @@
-# CISA-Notes
+# Chapter 1: Audit Planning
 
 ## Audit Planning
 - A **step-wise approach** to be followed to conduct an audit
@@ -194,3 +194,42 @@
     - Risk **transfer**: Transfer the risk to a third party: insurance is the best example
   - It is not always feasible to mitigate all the risks at an organizational level
     - A risk-free enterprise is an illusion
+
+
+
+
+# Chapter 2: Audit Execution
+
+## Audit Project Management
+- An audit includes various activities such as
+  - Audit planning
+  - Resource allocation
+  - Determining the audit scope and audit criteria
+  - Reviewing and evaluating audit evidence
+  - Forming audit conclusions
+  - Reporting to management
+- **Audit Objective**:
+  - **Expected outcomes** of the audit
+  - **Intended goals** that the audit must accomplish
+- **Audit Phases**:
+  - The audit process has **three** phases
+    - The **first** phase is about **planning**
+    - The **second** phase is about **execution**
+    - The **third** phase is about **reporting**
+  
+  | **Phase**           | **Audit Steps**                          | **Description**  |
+  |---------------------|------------------------------------------|------------------|
+  | **Planning Phase**  | **Assess risk and determine audit area** | The first step is to conduct a risk assessment and **identify the function, process, system, and physical location to be audited**. |
+  |                     | **Determine audit objective** | - Determine the expected outcomes of the audit i.e determining the intended gals the audit must accomplish |
+  |                     | **Determine the audit scope** | - The next step is to identify and determine the scope of the audit. <br> - The scope may be restricted to a few applications or few processes only. <br> - Defining the scope will help the auditor determine the resources required for conducting the audit. |
+  |                     | **Conduct pre-audit planning** | - Pre-audit planning includes understanding the business environment and the relevant regulations. <br> - It includes conducting risk assessments to determine areas of high risk. <br> - It also includes determining resource requirements and audit timings. |
+  |                     | **Determine audit procedures** | - The audit program is designed based on pre-audit information, including resource allocation and audit procedures. <br> - During this step, audit tools and methodology are developed to test and verify the controls. |
+  | **Execution Phase** | **Gather data** | Next step is to gather relevant data and documents for the conduct of audit. |
+  |                     | **Evaluate controls** | Once the required information and documents are available, evaluate the controls to verify their effectiveness and efficiency. |
+  |                     | **Validate and document the results** | Audit observations should be validated and documented along with the relevant evidence. |
+  | **Reporting Phase** | **Draft report** | - A draft report should be issued for obtaining comments from management on the audit observations before issuing. |
+  |                     | **Issue report** | The final report should contain audit findings, recommendations, comments, and the expected date of closure of the audit findings. |
+  |                     | **Follow up** | Follow-up should be done to determine whether the audit findings are closed, and a follow-up report should be issued. |
+
+- 
+
