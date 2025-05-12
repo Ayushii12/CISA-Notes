@@ -213,9 +213,9 @@
   - **Intended goals** that the audit must accomplish
 - **Audit Phases**:
   - The audit process has **three** phases
-    - The **first** phase is about **planning**
-    - The **second** phase is about **execution**
-    - The **third** phase is about **reporting**
+    - Phase 1: **Planning**
+    - Phase 2: **Execution**
+    - Phase 3: **Reporting**
   
   | **Phase**           | **Audit Steps**                          | **Description**  |
   |---------------------|------------------------------------------|------------------|
@@ -231,5 +231,8 @@
   |                     | **Issue report** | The final report should contain audit findings, recommendations, comments, and the expected date of closure of the audit findings. |
   |                     | **Follow up** | Follow-up should be done to determine whether the audit findings are closed, and a follow-up report should be issued. |
 
-- 
 
+
+
+## Sampling Methodology 
+- 
