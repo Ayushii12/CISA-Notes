@@ -239,4 +239,78 @@
   - By analyzing samples, characteristics of the entire population can be identified
   - Sampling is performed when it is **not** feasible to study the entire population due to **time** and **cost** constraints
 - **Types of Sampling**  _(Imp for CISA - 2/3 Question)_
-  - 
+  - **Statistical Sampling**
+    - An **objective** sampling technique
+    - Also known as **non-judgmental** sampling
+    - It uses the laws of **probability**, where each unit has an equal chance of selection
+      - In statistical sampling, the probability of error can be objectively  quantified, and hence the detection risk can be reduced
+  - **Non-Statistical Sampling**
+    - A **subjective** sampling technique
+    - Also known as **judgmental** sampling
+    - The auditor uses their **experience and judgment** to select the samples that are material and represent a higher risk
+  - **Attibute Sampling**
+    - It is based on certain attributes
+    - It answers the question, **“How many?”**
+      - It is expressed as a **percentage** — for example, “90% complied”
+    - Usually used in **compliance** testing
+  - **Variable Sampling**
+    - It answers the question, **“How much?”**
+      - It is expressed in monetary **value, weight, height, or some other measurement** — for example, “an average profit of $25,000.”
+      - Usually used in **substantive** testing
+  - **Stop-or-go Sampling**
+    - Used where **controls** are **strong** and very **few errors** are **expected**
+    - It helps to prevent excess sampling by allowing the audit test to end at the earliest possible moment
+  - **Discovery Sampling**
+    - Used when the objective is to **detect fraud/irregularities**
+    - If a **single** error is found, the **entire** sample is believed to be fraudulent/irregular
+- **Sampling Risk**
+  - Refers to the risk that a sample is **not a true representation of the population**
+  - The conclusion drawn by analyzing the sample may be **different** from the conclusion that would have been drawn by analyzing the entire population
+- **Compliance Testing Vs Substantive Testing**
+  | **Compliance Testing**                                      | **Substantive Testing**                                          |
+  |-------------------------------------------------------------|------------------------------------------------------------------|
+  | Verifies the **controls** of a process                      | Verifies **data** or **transactions**                            |
+  | Checks for the **presence** of controls                     | Checks for **completeness, accuracy, and validity** of data      |
+  | **Attribute sampling** is preferred                         | **Variable sampling** is preferred                               |
+  | **Examples**                                                | **Examples**                                                     |
+  | To check for controls in **router configuration**           | To **count and confirm the physical inventory**                  |
+  | To check for controls in the **change management process**  | To confirm the **validity of inventory valuation calculations**  |
+  | Verification of **system access rights**                    | To **count and confirm cash balance**                            |
+  | Verification of **firewall settings**                       | Examining the **trial balance**                                  |
+  | Reviewing **compliance with the password policy**           | Examining other **financial statements**                         |
+  - Ideally, **compliance** testing should be performed **first** and should be **followed** by **substantive** testing
+  - The outcome of compliance testing is used to plan for a substantive test
+    - If the outcome of compliance testing indicates the existence of **effective** internal controls, then substantive testing 
+may not be required or may be reduced. However, if the outcome of compliance testing indicates a **poor** internal control system, more rigorous substantive testing is required
+- **Other Sampling Terms**
+  - **The Confidence Coefficient**
+    - Measure of the **accuracy** of the sample
+    - Directly correlated to **sample size**
+      - A high sample size will give a high confidence coefficient
+         |  Population     | **Sample Size**        | **Confidence Coefficient**     |
+         |-----------------|------------------------|--------------------------------|
+         | 100             | 95                     | 95%                            |
+         |                 | 50                     | 50%                            |
+         |                 | 25                     | 25%                            |
+      - In the case of **poor** internal controls, the auditor may want to verify **higher** number of samples
+      - In the case of **strong** internal controls, the auditor may want to verify **lower** number of samples
+  - **Level Of Risk**
+    - Derived by **deducting the confidence coefficient from 1**
+      - For example, if the confidence coefficient is 95%, then the level of risk is 5% (100%–95%)
+  - **Expected Error Rate**
+    - Expected percentage of errors that may **exist**
+    - When the expected error rate is high, the auditor should select a higher sample size
+  - **Tolerable Error Rate**
+    - **Maximum** error rate that can exist without making the auditor to think the overall report is incorrect/misleading
+    - If the errors found are small or not very important, they likely won’t affect the auditor’s final opinion. But if errors go over the tolerable limit, the auditor may conclude that the statements are not reliable
+  - **Sample Mean**
+    - **Average** of all collected samples
+    - It is derived by adding all the samples and  dividing the sum by the number of samples 
+  - **Sample Standard Deviation**
+    -  **Variance** of the sample value from the **sample mean**
+
+
+
+
+## Audit Evidence Collection Techniques
+- 
